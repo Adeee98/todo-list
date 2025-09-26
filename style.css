@@ -1,0 +1,12 @@
+img{
+	width: 40%;
+	border-width: 10px 30px 5px 3px;
+	border-color: black;
+	border-style: solid double dotted;
+	border: 1px solid black;
+}
+h1{
+	background-color: red;
+	width: 300px;
+	height: 3
+}
