@@ -1,3 +1,6 @@
+body{
+	backgroundcolor: black;
+}
 img{
 	width: 40%;
 	border-width: 10px 30px 5px 3px;
@@ -10,3 +13,4 @@ h1{
 	width: 300px;
 	height: 3
 }
+
